@@ -17,7 +17,7 @@ Follow the steps below to set up and run the project.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/book-recommendation-app.git
+   git clone https://github.com/shivam-modi/bookrecommendation.git
    ```
 
 2. **Navigate into the Project Directory**:
@@ -115,7 +115,7 @@ Follow the steps below to set up and run the project.
   - UI/UX enhancements
   - State management with Redux or Zustand
   - Increased test coverage
-  - Using NextJs for better code structure, performance, server side rendering, and scalability
+  - Using NextJs for better code structure, performance, server-side rendering, and scalability
 
 - **Backend**:
   - Improved error handling
@@ -131,7 +131,7 @@ This project is intended for evaluation purposes and does not include a license.
 
 ## Contributing
 
-As this is a hiring assignment, contributions are not anticipated. Feedback and suggestions for improvement are welcome.
+As this is a hiring assignment, Feedback and suggestions for improvement are welcome.
 ```
 
 ### Key Additions:
